@@ -456,8 +456,8 @@ Function ReadAnotherSourceOfInformation(LabelsOfComponents As Range, ValuesOfCom
         ReDim AUX(1 To 4)
         AUX(1) = "NC6"
         AUX(2) = "C6"
-        AUX(2) = "C6H14"
-        AUX(3) = "HEXANE"
+        AUX(3) = "C6H14"
+        AUX(4) = "HEXANE"
         If CheckIfThisIsTheRequestedComponent(Labels(i), AUX) Then nC6 = ValuesOfComponents_MolPercentage(i): CheckForItemsNotRecognized(i) = 1: GoTo NextIteration
         ReDim AUX(1 To 4)
         AUX(1) = "NC7"
