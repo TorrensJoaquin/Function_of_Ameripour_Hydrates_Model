@@ -8,7 +8,7 @@ So predicting a trending will be much harder with that approach.
 In here you will find the proposed equations, as a easy to use function.  
 ## How do you use the formula?  
 =HydrateAmeripourS(TempInF,PressInPSI,LabelsOfComponents,ValuesOfComponents_MolPercentage)  
-Were...  
+Where...  
 TempInF = Temperature in Fahrenheit or 0 (zero) if you want to know the temperature.  
 PressInPSI = Pressure in PSI or 0 (zero) if you want to know the pressure.  
 LabelsOfComponents = Name of the components being uploaded.  
