@@ -3,7 +3,7 @@
 So... Why I’m i in here adding more code?  
 ## I honestly cannot make an improvement of the theoretical, practical and statistical solution she proposed. But, i also believe that the user of Excel is looking for a robust, function focused solution. Instead of looking for changing a sub or uploading it's values in another sheet.  
 
-The original Sharareh sheets are in a macro, not in a excel formula.  
+The original Sharareh sheets are in a macro, not in an excel formula.  
 So predicting a trending will be much harder with that approach.  
 In here you will find the proposed equations, as a easy to use function.  
 ## How do you use the formula?  
